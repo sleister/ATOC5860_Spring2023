@@ -1,2 +1,2 @@
 # ATOC5860_Spring2023
-Repository for ATOC 5860: Objective Data Analysis
+code for ATOC 5860: Objective Data Analysis Spring 2023
